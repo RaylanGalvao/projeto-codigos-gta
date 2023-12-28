@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+body{
+    background-color: rgba(0, 0, 0, 0.89);
+    color: white;
+}
+p{
+    background-color: rgba(0, 0, 0, 0.638);
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+}
